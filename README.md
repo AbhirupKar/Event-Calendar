@@ -1,6 +1,5 @@
 
 
-````markdown
 # 📅 Event Calendar
 
 A modern, interactive event calendar built with **React** and **Material-UI**. This application allows users to manage their schedule by adding, editing, and deleting events, with support for recurring events and drag-and-drop functionality.
@@ -30,10 +29,10 @@ A modern, interactive event calendar built with **React** and **Material-UI**. T
 ## 🛠 Installation
 
 1. Clone the repository:
+
    ```bash
    git clone <repository-url>
    cd event-calendar
-````
 
 2. Install dependencies:
 
